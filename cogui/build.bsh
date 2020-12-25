@@ -1,0 +1,5 @@
+import fr.lirmm.marel.rcaui.tools.*;
+CSV2RCFT.buildRcft(
+            PRJ_PATH+"exemple.json", 
+            PRJ_PATH+"Comparison_of_accounting_software_0_rawa.rcft",false,',');
+

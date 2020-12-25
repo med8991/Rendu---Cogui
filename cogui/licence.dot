@@ -1,0 +1,5 @@
+digraph G { 
+	rankdir=BT;
+1 [shape=record,style=filled,fillcolor=orange,label="{1 (I: 1, E: 2)|Propriétaire\n|License_GPL\nLicense_GPL2,OtherProprietary\n}"];
+2 [shape=record,style=filled,label="{2 (I: 1, E: 1)|Libre\n|License_ApacheLicense\n}"];
+}

@@ -1,0 +1,34 @@
+{
+    "cheminSortie": "Comparison_of_accounting_software_0_raw.rcft",
+    "FormalContext": [
+        {
+            "nom": "system",
+            "path": "Comparison_of_accounting_software_0_raw.csv",
+            "attrID": [0],
+            "attr": [1,2,3],
+            "attrQuartile": [],
+            "attrQuartileBase": [],
+             "attrCustomInterval":[]
+        },
+        {
+            "nom": "document",
+            "path": "Comparison_of_accounting_software_0_raw.csv",
+            "attrID": [0],
+            "attr": [4,5],
+            "attrQuartile": [],
+            "attrQuartileBase": [],
+            "attrCustomInterval":[]
+        }    
+        ],
+    "RelationalContext": [
+        {
+            "nom": "link",
+            "quantif": "exist",
+            "source": "system",
+            "target": "document",
+            "path":"Comparison_of_accounting_software_0_raw.csv",
+            "sourceKeys": [2],
+            "targetKeys": [0],
+            "nomRelationInverse": "linkInv"
+        }]
+}

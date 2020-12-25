@@ -1,0 +1,26 @@
+FormalContext system
+||License_GPL|Windows_Yes|MacOS_Yes|License_ApacheLicense|License_GPL2,OtherProprietary|License_GPL3|License_GPL2|MacOS_No|License_MPLDerivativeWithBadgewareClause|License_AGPL|License_CPAL|
+|Adempiere|x|x|x|||||||||
+|Apache OFBiz||x|x|x||||||||
+|Compiere||x|x||x|||||||
+|FrontAccounting||x|x|||x||||||
+|GnuCash|x|x|x|||||||||
+|GNU Enterprise|x|x|x|||||||||
+|HomeBank|x|x|x|||||||||
+|iDempiere||x|x||||x|||||
+|JFire|x|x||||||x||||
+|KMyMoney|x|x|x|||||||||
+|LedgerSMB|x|x|x|||||||||
+|Openbravo||x|x||||||x|||
+|Odoo||x|x|||||||x||
+|Postbooks||x|x||||||||x|
+|SQL-Ledger|x|x|x|||||||||
+|Tryton|x|x|x|||||||||
+|TurboCASH|x|x|x|||||||||
+|webERP|x|x|x|||||||||
+
+FormalContext licence
+||Libre|Propriétaire|
+|License_GPL|||
+|License_ApacheLicense|||
+|License_GPL2,OtherProprietary|||
